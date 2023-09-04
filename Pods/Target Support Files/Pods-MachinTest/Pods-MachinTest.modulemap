@@ -1,0 +1,6 @@
+framework module Pods_MachinTest {
+  umbrella header "Pods-MachinTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
